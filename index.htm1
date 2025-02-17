@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tama Globale - Commerce</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Tama Globale</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#accueil">Accueil</a></li>
+            <li><a href="#apropos">À Propos</a></li>
+            <li><a href="#services">Produits/Services</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+    
+    <section id="accueil">
+        <h2>Bienvenue chez Tama Globale</h2>
+        <p>Votre partenaire de confiance dans le commerce.</p>
+    </section>
+    
+    <section id="apropos">
+        <h2>À Propos</h2>
+        <p>Tama Globale est une entreprise spécialisée dans le commerce, offrant des produits et services de qualité.</p>
+    </section>
+    
+    <section id="services">
+        <h2>Nos Produits et Services</h2>
+        <p>Découvrez notre gamme variée de produits et services adaptés à vos besoins.</p>
+    </section>
+    
+    <section id="contact">
+        <h2>Contactez-nous</h2>
+        <p>Téléphone: +237 699 167 166</p>
+        <p>Email: contact@tamaglobale.com</p>
+    </section>
+    
+    <footer>
+        &copy; 2025 Tama Globale - Tous droits réservés.
+    </footer>
+</body>
+</html>
